@@ -1,0 +1,12 @@
+{
+  "name": "githubactions_examples",
+  "version": "1.0.0",
+  "description": "Práctica de GitHub Actions con ESLint y Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
